@@ -1,0 +1,329 @@
+ChebyKAN: [128]x3:
+Epoch: 1/10----------------
+100%|██████████| 3000/3000 [29:11<00:00,  1.71it/s, Loss=2.540e-02, PDE=7.240e-03, BC=3.943e-04,5.863e-05, IC=1.704e-02,6.688e-04, D*=5.99e-02,4.85e-03, lr=9.76e-04]
+R^2 Error: {'Ni': 0.135, 'SiC': 0.043, 'C': 0.131, 'NiSi': 0.203, 'NiSi2': 0.229}
+Inf Error: {'Ni': 0.123, 'SiC': 0.044, 'C': 0.177, 'NiSi': 0.253, 'NiSi2': 0.243}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_3000.pth
+Epoch: 2/10----------------
+100%|██████████| 3000/3000 [29:10<00:00,  1.71it/s, Loss=2.524e-02, PDE=1.132e-02, BC=2.854e-04,2.041e-05, IC=1.308e-02,5.337e-04, D*=5.99e-02,4.52e-03, lr=9.05e-04]
+R^2 Error: {'Ni': 0.091, 'SiC': 0.02, 'C': 0.109, 'NiSi': 0.214, 'NiSi2': 0.203}
+Inf Error: {'Ni': 0.081, 'SiC': 0.032, 'C': 0.19, 'NiSi': 0.229, 'NiSi2': 0.249}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_6000.pth
+Epoch: 3/10----------------
+100%|██████████| 3000/3000 [29:10<00:00,  1.71it/s, Loss=1.844e-02, PDE=5.582e-03, BC=7.518e-04,4.320e-06, IC=1.171e-02,3.926e-04, D*=5.99e-02,3.96e-03, lr=7.94e-04]
+R^2 Error: {'Ni': 0.099, 'SiC': 0.013, 'C': 0.078, 'NiSi': 0.182, 'NiSi2': 0.165}
+Inf Error: {'Ni': 0.091, 'SiC': 0.024, 'C': 0.134, 'NiSi': 0.204, 'NiSi2': 0.212}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_9000.pth
+Epoch: 4/10----------------
+100%|██████████| 3000/3000 [29:11<00:00,  1.71it/s, Loss=1.915e-02, PDE=8.859e-03, BC=1.690e-04,6.031e-05, IC=9.741e-03,3.205e-04, D*=5.99e-02,3.57e-03, lr=6.55e-04]
+R^2 Error: {'Ni': 0.066, 'SiC': 0.023, 'C': 0.082, 'NiSi': 0.139, 'NiSi2': 0.155}
+Inf Error: {'Ni': 0.065, 'SiC': 0.023, 'C': 0.14, 'NiSi': 0.204, 'NiSi2': 0.204}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_12000.pth
+Epoch: 5/10----------------
+100%|██████████| 3000/3000 [29:12<00:00,  1.71it/s, Loss=1.374e-02, PDE=5.523e-03, BC=3.512e-04,5.187e-06, IC=7.602e-03,2.559e-04, D*=5.99e-02,3.20e-03, lr=5.00e-04]
+R^2 Error: {'Ni': 0.069, 'SiC': 0.024, 'C': 0.07, 'NiSi': 0.148, 'NiSi2': 0.131}
+Inf Error: {'Ni': 0.064, 'SiC': 0.023, 'C': 0.124, 'NiSi': 0.19, 'NiSi2': 0.179}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_15000.pth
+Epoch: 6/10----------------
+100%|██████████| 3000/3000 [29:11<00:00,  1.71it/s, Loss=1.371e-02, PDE=4.951e-03, BC=3.985e-05,1.725e-05, IC=8.485e-03,2.131e-04, D*=5.99e-02,3.04e-03, lr=3.46e-04]
+R^2 Error: {'Ni': 0.077, 'SiC': 0.03, 'C': 0.105, 'NiSi': 0.105, 'NiSi2': 0.134}
+Inf Error: {'Ni': 0.072, 'SiC': 0.027, 'C': 0.139, 'NiSi': 0.155, 'NiSi2': 0.162}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_18000.pth
+Epoch: 7/10----------------
+100%|██████████| 3000/3000 [29:12<00:00,  1.71it/s, Loss=1.215e-02, PDE=6.710e-03, BC=2.367e-04,5.412e-06, IC=5.036e-03,1.654e-04, D*=5.99e-02,1.99e-03, lr=2.06e-04]
+R^2 Error: {'Ni': 0.053, 'SiC': 0.011, 'C': 0.045, 'NiSi': 0.119, 'NiSi2': 0.109}
+Inf Error: {'Ni': 0.05, 'SiC': 0.017, 'C': 0.094, 'NiSi': 0.164, 'NiSi2': 0.146}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_21000.pth
+Epoch: 8/10----------------
+100%|██████████| 3000/3000 [29:13<00:00,  1.71it/s, Loss=3.614e-03, PDE=2.065e-03, BC=3.391e-05,3.491e-06, IC=1.386e-03,1.254e-04, D*=6.00e-02,1.08e-03, lr=9.56e-05]
+R^2 Error: {'Ni': 0.042, 'SiC': 0.007, 'C': 0.035, 'NiSi': 0.09, 'NiSi2': 0.103}
+Inf Error: {'Ni': 0.042, 'SiC': 0.009, 'C': 0.084, 'NiSi': 0.146, 'NiSi2': 0.139}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_24000.pth
+Epoch: 9/10----------------
+100%|██████████| 3000/3000 [29:11<00:00,  1.71it/s, Loss=1.356e-03, PDE=5.620e-04, BC=1.891e-05,1.456e-06, IC=6.556e-04,1.184e-04, D*=6.00e-02,9.14e-04, lr=2.45e-05]
+R^2 Error: {'Ni': 0.039, 'SiC': 0.006, 'C': 0.039, 'NiSi': 0.089, 'NiSi2': 0.097}
+Inf Error: {'Ni': 0.038, 'SiC': 0.007, 'C': 0.095, 'NiSi': 0.144, 'NiSi2': 0.129}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_27000.pth
+Epoch: 10/10----------------
+100%|██████████| 3000/3000 [29:11<00:00,  1.71it/s, Loss=5.144e-04, PDE=2.961e-04, BC=4.158e-06,1.141e-06, IC=1.039e-04,1.091e-04, D*=6.00e-02,7.76e-04, lr=1.00e-08]
+R^2 Error: {'Ni': 0.036, 'SiC': 0.008, 'C': 0.04, 'NiSi': 0.091, 'NiSi2': 0.097}
+Inf Error: {'Ni': 0.039, 'SiC': 0.008, 'C': 0.1, 'NiSi': 0.142, 'NiSi2': 0.127}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x3:/model_save/ChebyKAN: [128]x3_30000.pth
+R2 Error: {'Ni': 0.036, 'SiC': 0.008, 'C': 0.04, 'NiSi': 0.091, 'NiSi2': 0.097}
+Inf Error: {'Ni': 0.039, 'SiC': 0.008, 'C': 0.1, 'NiSi': 0.142, 'NiSi2': 0.127}
+Training time: 17556.42s-------------------------
+ChebyKAN: [64]x3:
+Epoch: 1/10----------------
+100%|██████████| 3000/3000 [16:01<00:00,  3.12it/s, Loss=2.704e-02, PDE=9.131e-03, BC=8.439e-04,6.364e-05, IC=1.600e-02,1.001e-03, D*=5.98e-02,6.76e-03, lr=9.76e-04]
+R^2 Error: {'Ni': 0.116, 'SiC': 0.052, 'C': 0.161, 'NiSi': 0.266, 'NiSi2': 0.287}
+Inf Error: {'Ni': 0.102, 'SiC': 0.043, 'C': 0.227, 'NiSi': 0.341, 'NiSi2': 0.313}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_3000.pth
+Epoch: 2/10----------------
+100%|██████████| 3000/3000 [16:02<00:00,  3.12it/s, Loss=2.746e-02, PDE=1.136e-02, BC=5.827e-04,1.194e-05, IC=1.474e-02,7.703e-04, D*=5.99e-02,6.02e-03, lr=9.05e-04]
+R^2 Error: {'Ni': 0.077, 'SiC': 0.033, 'C': 0.166, 'NiSi': 0.234, 'NiSi2': 0.243}
+Inf Error: {'Ni': 0.09, 'SiC': 0.036, 'C': 0.213, 'NiSi': 0.302, 'NiSi2': 0.263}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_6000.pth
+Epoch: 3/10----------------
+100%|██████████| 3000/3000 [16:07<00:00,  3.10it/s, Loss=2.022e-02, PDE=7.383e-03, BC=1.571e-04,2.377e-05, IC=1.206e-02,5.882e-04, D*=5.99e-02,4.91e-03, lr=7.94e-04]
+R^2 Error: {'Ni': 0.08, 'SiC': 0.027, 'C': 0.136, 'NiSi': 0.197, 'NiSi2': 0.19}
+Inf Error: {'Ni': 0.07, 'SiC': 0.031, 'C': 0.185, 'NiSi': 0.267, 'NiSi2': 0.215}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_9000.pth
+Epoch: 4/10----------------
+100%|██████████| 3000/3000 [16:06<00:00,  3.10it/s, Loss=1.473e-02, PDE=3.132e-03, BC=7.751e-04,5.860e-06, IC=1.031e-02,5.010e-04, D*=5.99e-02,4.75e-03, lr=6.55e-04]
+R^2 Error: {'Ni': 0.093, 'SiC': 0.027, 'C': 0.123, 'NiSi': 0.206, 'NiSi2': 0.172}
+Inf Error: {'Ni': 0.084, 'SiC': 0.032, 'C': 0.164, 'NiSi': 0.272, 'NiSi2': 0.203}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_12000.pth
+Epoch: 5/10----------------
+100%|██████████| 3000/3000 [16:07<00:00,  3.10it/s, Loss=1.852e-02, PDE=9.878e-03, BC=1.500e-04,4.767e-06, IC=8.126e-03,3.581e-04, D*=5.99e-02,4.31e-03, lr=5.00e-04]
+R^2 Error: {'Ni': 0.064, 'SiC': 0.02, 'C': 0.098, 'NiSi': 0.206, 'NiSi2': 0.146}
+Inf Error: {'Ni': 0.067, 'SiC': 0.024, 'C': 0.158, 'NiSi': 0.263, 'NiSi2': 0.174}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_15000.pth
+Epoch: 6/10----------------
+100%|██████████| 3000/3000 [16:11<00:00,  3.09it/s, Loss=1.240e-02, PDE=4.101e-03, BC=1.092e-04,1.585e-05, IC=7.848e-03,3.270e-04, D*=5.99e-02,4.21e-03, lr=3.46e-04]
+R^2 Error: {'Ni': 0.061, 'SiC': 0.022, 'C': 0.106, 'NiSi': 0.162, 'NiSi2': 0.15}
+Inf Error: {'Ni': 0.062, 'SiC': 0.023, 'C': 0.15, 'NiSi': 0.224, 'NiSi2': 0.18}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_18000.pth
+Epoch: 7/10----------------
+100%|██████████| 3000/3000 [16:27<00:00,  3.04it/s, Loss=1.306e-02, PDE=5.851e-03, BC=7.878e-05,6.309e-06, IC=6.863e-03,2.594e-04, D*=5.99e-02,3.46e-03, lr=2.06e-04]
+R^2 Error: {'Ni': 0.072, 'SiC': 0.046, 'C': 0.1, 'NiSi': 0.173, 'NiSi2': 0.134}
+Inf Error: {'Ni': 0.07, 'SiC': 0.042, 'C': 0.138, 'NiSi': 0.22, 'NiSi2': 0.153}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_21000.pth
+Epoch: 8/10----------------
+100%|██████████| 3000/3000 [16:18<00:00,  3.07it/s, Loss=1.110e-02, PDE=5.823e-03, BC=2.199e-05,4.801e-06, IC=4.990e-03,2.602e-04, D*=5.99e-02,3.71e-03, lr=9.56e-05]
+R^2 Error: {'Ni': 0.059, 'SiC': 0.019, 'C': 0.087, 'NiSi': 0.14, 'NiSi2': 0.134}
+Inf Error: {'Ni': 0.054, 'SiC': 0.017, 'C': 0.13, 'NiSi': 0.201, 'NiSi2': 0.153}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_24000.pth
+Epoch: 9/10----------------
+100%|██████████| 3000/3000 [16:19<00:00,  3.06it/s, Loss=1.856e-03, PDE=1.181e-03, BC=1.719e-05,1.358e-06, IC=4.639e-04,1.921e-04, D*=5.99e-02,1.31e-03, lr=2.45e-05]
+R^2 Error: {'Ni': 0.045, 'SiC': 0.016, 'C': 0.069, 'NiSi': 0.134, 'NiSi2': 0.123}
+Inf Error: {'Ni': 0.049, 'SiC': 0.018, 'C': 0.126, 'NiSi': 0.196, 'NiSi2': 0.146}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_27000.pth
+Epoch: 10/10----------------
+100%|██████████| 3000/3000 [16:17<00:00,  3.07it/s, Loss=1.136e-03, PDE=7.292e-04, BC=1.679e-05,1.365e-06, IC=2.043e-04,1.843e-04, D*=5.99e-02,1.04e-03, lr=1.00e-08]
+R^2 Error: {'Ni': 0.044, 'SiC': 0.015, 'C': 0.066, 'NiSi': 0.133, 'NiSi2': 0.124}
+Inf Error: {'Ni': 0.05, 'SiC': 0.017, 'C': 0.127, 'NiSi': 0.195, 'NiSi2': 0.146}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x3:/model_save/ChebyKAN: [64]x3_30000.pth
+R2 Error: {'Ni': 0.044, 'SiC': 0.015, 'C': 0.066, 'NiSi': 0.133, 'NiSi2': 0.124}
+Inf Error: {'Ni': 0.05, 'SiC': 0.017, 'C': 0.127, 'NiSi': 0.195, 'NiSi2': 0.146}
+Training time: 9745.85s-------------------------
+
+ChebyKAN: [128]x5:
+Epoch: 1/10----------------
+100%|██████████| 3000/3000 [48:37<00:00,  1.03it/s, Loss=3.747e-02, PDE=1.249e-02, BC=5.088e-04,8.580e-06, IC=2.381e-02,6.496e-04, D*=5.99e-02,4.40e-03, lr=9.76e-04]
+R^2 Error: {'Ni': 0.096, 'SiC': 0.033, 'C': 0.059, 'NiSi': 0.295, 'NiSi2': 0.2}
+Inf Error: {'Ni': 0.087, 'SiC': 0.047, 'C': 0.138, 'NiSi': 0.367, 'NiSi2': 0.233}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_3000.pth
+Epoch: 2/10----------------
+100%|██████████| 3000/3000 [48:37<00:00,  1.03it/s, Loss=2.614e-02, PDE=1.051e-02, BC=1.977e-04,9.180e-06, IC=1.508e-02,3.460e-04, D*=5.99e-02,3.17e-03, lr=9.05e-04]
+R^2 Error: {'Ni': 0.061, 'SiC': 0.014, 'C': 0.117, 'NiSi': 0.21, 'NiSi2': 0.229}
+Inf Error: {'Ni': 0.068, 'SiC': 0.025, 'C': 0.148, 'NiSi': 0.307, 'NiSi2': 0.178}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_6000.pth
+Epoch: 3/10----------------
+100%|██████████| 3000/3000 [48:37<00:00,  1.03it/s, Loss=3.831e-02, PDE=2.451e-02, BC=8.485e-05,5.480e-06, IC=1.351e-02,2.017e-04, D*=5.99e-02,2.53e-03, lr=7.94e-04]
+R^2 Error: {'Ni': 0.085, 'SiC': 0.067, 'C': 0.104, 'NiSi': 0.153, 'NiSi2': 0.17}
+Inf Error: {'Ni': 0.082, 'SiC': 0.063, 'C': 0.087, 'NiSi': 0.199, 'NiSi2': 0.247}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_9000.pth
+Epoch: 4/10----------------
+100%|██████████| 3000/3000 [48:37<00:00,  1.03it/s, Loss=2.568e-02, PDE=1.245e-02, BC=5.999e-04,8.588e-06, IC=1.241e-02,2.120e-04, D*=5.99e-02,3.01e-03, lr=6.55e-04]
+R^2 Error: {'Ni': 0.108, 'SiC': 0.048, 'C': 0.137, 'NiSi': 0.133, 'NiSi2': 0.18}
+Inf Error: {'Ni': 0.101, 'SiC': 0.043, 'C': 0.101, 'NiSi': 0.196, 'NiSi2': 0.122}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_12000.pth
+Epoch: 5/10----------------
+100%|██████████| 3000/3000 [48:40<00:00,  1.03it/s, Loss=2.234e-02, PDE=6.800e-03, BC=3.723e-05,3.117e-06, IC=1.533e-02,1.708e-04, D*=5.99e-02,2.74e-03, lr=5.00e-04]
+R^2 Error: {'Ni': 0.065, 'SiC': 0.025, 'C': 0.137, 'NiSi': 0.148, 'NiSi2': 0.146}
+Inf Error: {'Ni': 0.066, 'SiC': 0.029, 'C': 0.121, 'NiSi': 0.196, 'NiSi2': 0.106}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_15000.pth
+Epoch: 6/10----------------
+100%|██████████| 3000/3000 [48:38<00:00,  1.03it/s, Loss=1.483e-02, PDE=6.563e-03, BC=3.629e-05,5.386e-06, IC=8.095e-03,1.280e-04, D*=5.99e-02,2.23e-03, lr=3.46e-04]
+R^2 Error: {'Ni': 0.039, 'SiC': 0.022, 'C': 0.07, 'NiSi': 0.11, 'NiSi2': 0.081}
+Inf Error: {'Ni': 0.054, 'SiC': 0.021, 'C': 0.077, 'NiSi': 0.182, 'NiSi2': 0.092}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_18000.pth
+Epoch: 7/10----------------
+100%|██████████| 3000/3000 [48:36<00:00,  1.03it/s, Loss=4.063e-02, PDE=3.524e-02, BC=4.879e-05,5.425e-06, IC=5.260e-03,7.308e-05, D*=5.99e-02,1.77e-03, lr=2.06e-04]
+R^2 Error: {'Ni': 0.067, 'SiC': 0.034, 'C': 0.074, 'NiSi': 0.117, 'NiSi2': 0.129}
+Inf Error: {'Ni': 0.066, 'SiC': 0.028, 'C': 0.073, 'NiSi': 0.154, 'NiSi2': 0.114}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_21000.pth
+Epoch: 8/10----------------
+100%|██████████| 3000/3000 [48:36<00:00,  1.03it/s, Loss=9.448e-03, PDE=4.784e-03, BC=3.324e-05,6.190e-06, IC=4.582e-03,4.260e-05, D*=5.99e-02,9.05e-04, lr=9.56e-05]
+R^2 Error: {'Ni': 0.086, 'SiC': 0.026, 'C': 0.052, 'NiSi': 0.093, 'NiSi2': 0.071}
+Inf Error: {'Ni': 0.083, 'SiC': 0.026, 'C': 0.042, 'NiSi': 0.129, 'NiSi2': 0.111}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_24000.pth
+Epoch: 9/10----------------
+100%|██████████| 3000/3000 [48:38<00:00,  1.03it/s, Loss=2.295e-04, PDE=1.346e-04, BC=1.474e-06,4.532e-07, IC=6.216e-05,3.079e-05, D*=5.99e-02,4.72e-04, lr=2.45e-05]
+R^2 Error: {'Ni': 0.024, 'SiC': 0.011, 'C': 0.031, 'NiSi': 0.076, 'NiSi2': 0.054}
+Inf Error: {'Ni': 0.022, 'SiC': 0.014, 'C': 0.062, 'NiSi': 0.122, 'NiSi2': 0.058}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_27000.pth
+Epoch: 10/10----------------
+100%|██████████| 3000/3000 [48:38<00:00,  1.03it/s, Loss=1.717e-04, PDE=1.143e-04, BC=1.168e-06,3.892e-07, IC=2.542e-05,3.040e-05, D*=6.00e-02,4.14e-04, lr=1.00e-08]
+R^2 Error: {'Ni': 0.023, 'SiC': 0.012, 'C': 0.028, 'NiSi': 0.077, 'NiSi2': 0.055}
+Inf Error: {'Ni': 0.022, 'SiC': 0.016, 'C': 0.06, 'NiSi': 0.12, 'NiSi2': 0.064}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x5:/model_save/ChebyKAN: [128]x5_30000.pth
+R2 Error: {'Ni': 0.023, 'SiC': 0.012, 'C': 0.028, 'NiSi': 0.077, 'NiSi2': 0.055}
+Inf Error: {'Ni': 0.022, 'SiC': 0.016, 'C': 0.06, 'NiSi': 0.12, 'NiSi2': 0.064}
+Training time: 29218.73s-------------------------
+
+ChebyKAN: [64]x5:
+Epoch: 1/10----------------
+100%|██████████| 3000/3000 [25:32<00:00,  1.96it/s, Loss=4.283e-02, PDE=2.117e-02, BC=1.403e-04,2.901e-05, IC=2.081e-02,6.816e-04, D*=5.99e-02,4.13e-03, lr=9.76e-04]
+R^2 Error: {'Ni': 0.092, 'SiC': 0.084, 'C': 0.161, 'NiSi': 0.287, 'NiSi2': 0.303}
+Inf Error: {'Ni': 0.086, 'SiC': 0.073, 'C': 0.149, 'NiSi': 0.389, 'NiSi2': 0.285}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_3000.pth
+Epoch: 2/10----------------
+100%|██████████| 3000/3000 [25:37<00:00,  1.95it/s, Loss=2.851e-02, PDE=8.952e-03, BC=1.238e-03,4.025e-05, IC=1.779e-02,4.882e-04, D*=5.99e-02,3.41e-03, lr=9.05e-04]
+R^2 Error: {'Ni': 0.098, 'SiC': 0.047, 'C': 0.118, 'NiSi': 0.218, 'NiSi2': 0.205}
+Inf Error: {'Ni': 0.088, 'SiC': 0.045, 'C': 0.155, 'NiSi': 0.324, 'NiSi2': 0.285}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_6000.pth
+Epoch: 3/10----------------
+100%|██████████| 3000/3000 [25:42<00:00,  1.95it/s, Loss=2.177e-02, PDE=9.693e-03, BC=6.962e-04,1.081e-05, IC=1.093e-02,4.369e-04, D*=5.99e-02,2.80e-03, lr=7.94e-04]
+R^2 Error: {'Ni': 0.079, 'SiC': 0.023, 'C': 0.106, 'NiSi': 0.23, 'NiSi2': 0.171}
+Inf Error: {'Ni': 0.084, 'SiC': 0.023, 'C': 0.182, 'NiSi': 0.348, 'NiSi2': 0.215}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_9000.pth
+Epoch: 4/10----------------
+100%|██████████| 3000/3000 [25:45<00:00,  1.94it/s, Loss=2.408e-02, PDE=7.355e-03, BC=6.680e-05,8.648e-06, IC=1.628e-02,3.719e-04, D*=5.99e-02,3.01e-03, lr=6.55e-04]
+R^2 Error: {'Ni': 0.059, 'SiC': 0.028, 'C': 0.081, 'NiSi': 0.216, 'NiSi2': 0.188}
+Inf Error: {'Ni': 0.073, 'SiC': 0.03, 'C': 0.141, 'NiSi': 0.305, 'NiSi2': 0.196}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_12000.pth
+Epoch: 5/10----------------
+100%|██████████| 3000/3000 [25:47<00:00,  1.94it/s, Loss=2.262e-02, PDE=5.891e-03, BC=4.199e-04,1.753e-05, IC=1.587e-02,4.199e-04, D*=5.99e-02,3.08e-03, lr=5.00e-04]
+R^2 Error: {'Ni': 0.083, 'SiC': 0.028, 'C': 0.134, 'NiSi': 0.197, 'NiSi2': 0.2}
+Inf Error: {'Ni': 0.081, 'SiC': 0.032, 'C': 0.151, 'NiSi': 0.301, 'NiSi2': 0.22}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_15000.pth
+Epoch: 6/10----------------
+100%|██████████| 3000/3000 [25:48<00:00,  1.94it/s, Loss=2.278e-02, PDE=4.157e-03, BC=8.082e-04,1.138e-05, IC=1.741e-02,3.997e-04, D*=5.99e-02,2.95e-03, lr=3.46e-04]
+R^2 Error: {'Ni': 0.097, 'SiC': 0.03, 'C': 0.076, 'NiSi': 0.164, 'NiSi2': 0.155}
+Inf Error: {'Ni': 0.095, 'SiC': 0.028, 'C': 0.111, 'NiSi': 0.265, 'NiSi2': 0.173}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_18000.pth
+Epoch: 7/10----------------
+100%|██████████| 3000/3000 [25:47<00:00,  1.94it/s, Loss=1.501e-02, PDE=9.259e-03, BC=4.409e-05,2.025e-06, IC=5.462e-03,2.467e-04, D*=5.99e-02,2.18e-03, lr=2.06e-04]
+R^2 Error: {'Ni': 0.074, 'SiC': 0.027, 'C': 0.084, 'NiSi': 0.171, 'NiSi2': 0.14}
+Inf Error: {'Ni': 0.068, 'SiC': 0.022, 'C': 0.107, 'NiSi': 0.272, 'NiSi2': 0.197}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_21000.pth
+Epoch: 8/10----------------
+100%|██████████| 3000/3000 [25:48<00:00,  1.94it/s, Loss=8.005e-02, PDE=6.856e-02, BC=4.609e-04,6.480e-06, IC=1.081e-02,2.153e-04, D*=5.99e-02,1.82e-03, lr=9.56e-05]
+R^2 Error: {'Ni': 0.091, 'SiC': 0.03, 'C': 0.115, 'NiSi': 0.186, 'NiSi2': 0.17}
+Inf Error: {'Ni': 0.084, 'SiC': 0.031, 'C': 0.104, 'NiSi': 0.253, 'NiSi2': 0.184}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_24000.pth
+Epoch: 9/10----------------
+100%|██████████| 3000/3000 [25:49<00:00,  1.94it/s, Loss=4.888e-03, PDE=2.472e-03, BC=9.260e-05,2.833e-06, IC=2.166e-03,1.547e-04, D*=5.99e-02,1.32e-03, lr=2.45e-05]
+R^2 Error: {'Ni': 0.051, 'SiC': 0.02, 'C': 0.078, 'NiSi': 0.138, 'NiSi2': 0.115}
+Inf Error: {'Ni': 0.053, 'SiC': 0.022, 'C': 0.112, 'NiSi': 0.231, 'NiSi2': 0.153}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_27000.pth
+Epoch: 10/10----------------
+100%|██████████| 3000/3000 [25:50<00:00,  1.93it/s, Loss=1.021e-03, PDE=6.432e-04, BC=1.015e-05,1.276e-06, IC=2.327e-04,1.338e-04, D*=5.99e-02,1.26e-03, lr=1.00e-08]
+R^2 Error: {'Ni': 0.042, 'SiC': 0.018, 'C': 0.073, 'NiSi': 0.135, 'NiSi2': 0.104}
+Inf Error: {'Ni': 0.042, 'SiC': 0.019, 'C': 0.114, 'NiSi': 0.227, 'NiSi2': 0.147}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x5:/model_save/ChebyKAN: [64]x5_30000.pth
+R2 Error: {'Ni': 0.042, 'SiC': 0.018, 'C': 0.073, 'NiSi': 0.135, 'NiSi2': 0.104}
+Inf Error: {'Ni': 0.042, 'SiC': 0.019, 'C': 0.114, 'NiSi': 0.227, 'NiSi2': 0.147}
+Training time: 15490.03s-------------------------
+
+ChebyKAN: [128]x4:
+Epoch: 1/10----------------
+100%|██████████| 3000/3000 [38:44<00:00,  1.29it/s, Loss=3.907e-02, PDE=1.797e-02, BC=1.113e-04,4.547e-05, IC=2.039e-02,5.449e-04, D*=5.99e-02,4.28e-03, lr=9.76e-04]
+R^2 Error: {'Ni': 0.082, 'SiC': 0.052, 'C': 0.209, 'NiSi': 0.242, 'NiSi2': 0.298}
+Inf Error: {'Ni': 0.072, 'SiC': 0.047, 'C': 0.218, 'NiSi': 0.307, 'NiSi2': 0.233}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_3000.pth
+Epoch: 2/10----------------
+100%|██████████| 3000/3000 [38:38<00:00,  1.29it/s, Loss=3.533e-02, PDE=1.520e-02, BC=1.286e-03,3.246e-04, IC=1.813e-02,3.808e-04, D*=5.99e-02,3.94e-03, lr=9.05e-04]
+R^2 Error: {'Ni': 0.101, 'SiC': 0.036, 'C': 0.08, 'NiSi': 0.172, 'NiSi2': 0.159}
+Inf Error: {'Ni': 0.094, 'SiC': 0.037, 'C': 0.126, 'NiSi': 0.255, 'NiSi2': 0.214}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_6000.pth
+Epoch: 3/10----------------
+100%|██████████| 3000/3000 [38:37<00:00,  1.29it/s, Loss=3.004e-02, PDE=1.881e-02, BC=1.263e-04,5.128e-05, IC=1.085e-02,2.003e-04, D*=5.99e-02,2.81e-03, lr=7.94e-04]
+R^2 Error: {'Ni': 0.098, 'SiC': 0.038, 'C': 0.161, 'NiSi': 0.161, 'NiSi2': 0.179}
+Inf Error: {'Ni': 0.082, 'SiC': 0.044, 'C': 0.161, 'NiSi': 0.206, 'NiSi2': 0.168}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_9000.pth
+Epoch: 4/10----------------
+100%|██████████| 3000/3000 [38:40<00:00,  1.29it/s, Loss=2.487e-02, PDE=6.586e-03, BC=1.019e-04,2.624e-05, IC=1.783e-02,3.264e-04, D*=5.99e-02,3.94e-03, lr=6.55e-04]
+R^2 Error: {'Ni': 0.086, 'SiC': 0.027, 'C': 0.085, 'NiSi': 0.216, 'NiSi2': 0.174}
+Inf Error: {'Ni': 0.081, 'SiC': 0.032, 'C': 0.105, 'NiSi': 0.27, 'NiSi2': 0.161}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_12000.pth
+Epoch: 5/10----------------
+100%|██████████| 3000/3000 [38:44<00:00,  1.29it/s, Loss=1.590e-02, PDE=4.728e-03, BC=9.598e-05,9.786e-06, IC=1.085e-02,2.139e-04, D*=5.99e-02,2.77e-03, lr=5.00e-04]
+R^2 Error: {'Ni': 0.089, 'SiC': 0.014, 'C': 0.077, 'NiSi': 0.161, 'NiSi2': 0.129}
+Inf Error: {'Ni': 0.082, 'SiC': 0.024, 'C': 0.093, 'NiSi': 0.214, 'NiSi2': 0.161}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_15000.pth
+Epoch: 6/10----------------
+100%|██████████| 3000/3000 [38:43<00:00,  1.29it/s, Loss=1.558e-02, PDE=3.272e-03, BC=2.282e-05,1.983e-05, IC=1.208e-02,1.890e-04, D*=5.99e-02,2.99e-03, lr=3.46e-04]
+R^2 Error: {'Ni': 0.084, 'SiC': 0.028, 'C': 0.064, 'NiSi': 0.143, 'NiSi2': 0.124}
+Inf Error: {'Ni': 0.081, 'SiC': 0.028, 'C': 0.09, 'NiSi': 0.209, 'NiSi2': 0.162}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_18000.pth
+Epoch: 7/10----------------
+100%|██████████| 3000/3000 [38:39<00:00,  1.29it/s, Loss=1.925e-02, PDE=1.063e-02, BC=3.806e-05,8.542e-06, IC=8.513e-03,6.146e-05, D*=5.99e-02,1.10e-03, lr=2.06e-04]
+R^2 Error: {'Ni': 0.048, 'SiC': 0.012, 'C': 0.094, 'NiSi': 0.103, 'NiSi2': 0.099}
+Inf Error: {'Ni': 0.054, 'SiC': 0.017, 'C': 0.089, 'NiSi': 0.161, 'NiSi2': 0.081}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_21000.pth
+Epoch: 8/10----------------
+100%|██████████| 3000/3000 [38:39<00:00,  1.29it/s, Loss=5.519e-04, PDE=2.606e-04, BC=1.767e-06,5.524e-07, IC=2.323e-04,5.660e-05, D*=5.99e-02,6.12e-04, lr=9.56e-05]
+R^2 Error: {'Ni': 0.033, 'SiC': 0.01, 'C': 0.046, 'NiSi': 0.086, 'NiSi2': 0.06}
+Inf Error: {'Ni': 0.032, 'SiC': 0.012, 'C': 0.084, 'NiSi': 0.144, 'NiSi2': 0.066}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_24000.pth
+Epoch: 9/10----------------
+100%|██████████| 3000/3000 [38:39<00:00,  1.29it/s, Loss=2.973e-04, PDE=1.789e-04, BC=1.114e-06,2.409e-07, IC=6.880e-05,4.824e-05, D*=5.99e-02,4.86e-04, lr=2.45e-05]
+R^2 Error: {'Ni': 0.028, 'SiC': 0.009, 'C': 0.035, 'NiSi': 0.077, 'NiSi2': 0.055}
+Inf Error: {'Ni': 0.027, 'SiC': 0.011, 'C': 0.078, 'NiSi': 0.128, 'NiSi2': 0.063}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_27000.pth
+Epoch: 10/10----------------
+100%|██████████| 3000/3000 [38:42<00:00,  1.29it/s, Loss=2.438e-04, PDE=1.564e-04, BC=9.295e-07,2.115e-07, IC=3.954e-05,4.672e-05, D*=5.99e-02,4.31e-04, lr=1.00e-08]
+R^2 Error: {'Ni': 0.028, 'SiC': 0.01, 'C': 0.032, 'NiSi': 0.075, 'NiSi2': 0.054}
+Inf Error: {'Ni': 0.026, 'SiC': 0.012, 'C': 0.076, 'NiSi': 0.124, 'NiSi2': 0.061}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [128]x4:/model_save/ChebyKAN: [128]x4_30000.pth
+R2 Error: {'Ni': 0.028, 'SiC': 0.01, 'C': 0.032, 'NiSi': 0.075, 'NiSi2': 0.054}
+Inf Error: {'Ni': 0.026, 'SiC': 0.012, 'C': 0.076, 'NiSi': 0.124, 'NiSi2': 0.061}
+Training time: 23259.82s-------------------------
+
+ChebyKAN: [64]x4:
+Epoch: 1/10----------------
+100%|██████████| 3000/3000 [20:49<00:00,  2.40it/s, Loss=3.697e-02, PDE=8.426e-03, BC=2.708e-03,5.233e-05, IC=2.496e-02,8.276e-04, D*=5.99e-02,5.72e-03, lr=9.76e-04]
+R^2 Error: {'Ni': 0.181, 'SiC': 0.086, 'C': 0.13, 'NiSi': 0.334, 'NiSi2': 0.259}
+Inf Error: {'Ni': 0.166, 'SiC': 0.076, 'C': 0.181, 'NiSi': 0.404, 'NiSi2': 0.247}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_3000.pth
+Epoch: 2/10----------------
+100%|██████████| 3000/3000 [20:47<00:00,  2.40it/s, Loss=2.501e-02, PDE=8.743e-03, BC=3.641e-04,2.131e-05, IC=1.539e-02,4.854e-04, D*=5.99e-02,3.73e-03, lr=9.05e-04]
+R^2 Error: {'Ni': 0.115, 'SiC': 0.031, 'C': 0.082, 'NiSi': 0.241, 'NiSi2': 0.198}
+Inf Error: {'Ni': 0.107, 'SiC': 0.031, 'C': 0.153, 'NiSi': 0.34, 'NiSi2': 0.227}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_6000.pth
+Epoch: 3/10----------------
+100%|██████████| 3000/3000 [20:53<00:00,  2.39it/s, Loss=3.419e-02, PDE=4.222e-03, BC=7.295e-03,1.128e-05, IC=2.210e-02,5.626e-04, D*=5.99e-02,4.01e-03, lr=7.94e-04]
+R^2 Error: {'Ni': 0.105, 'SiC': 0.031, 'C': 0.148, 'NiSi': 0.208, 'NiSi2': 0.188}
+Inf Error: {'Ni': 0.094, 'SiC': 0.042, 'C': 0.195, 'NiSi': 0.292, 'NiSi2': 0.179}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_9000.pth
+Epoch: 4/10----------------
+100%|██████████| 3000/3000 [20:55<00:00,  2.39it/s, Loss=9.194e-02, PDE=3.029e-02, BC=2.212e-03,3.680e-04, IC=5.851e-02,5.620e-04, D*=5.99e-02,4.87e-03, lr=6.55e-04]
+R^2 Error: {'Ni': 0.128, 'SiC': 0.065, 'C': 0.115, 'NiSi': 0.232, 'NiSi2': 0.243}
+Inf Error: {'Ni': 0.127, 'SiC': 0.061, 'C': 0.14, 'NiSi': 0.311, 'NiSi2': 0.311}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_12000.pth
+Epoch: 5/10----------------
+100%|██████████| 3000/3000 [20:52<00:00,  2.40it/s, Loss=2.083e-02, PDE=8.479e-03, BC=4.210e-04,2.244e-05, IC=1.165e-02,2.522e-04, D*=5.99e-02,2.54e-03, lr=5.00e-04]
+R^2 Error: {'Ni': 0.104, 'SiC': 0.025, 'C': 0.072, 'NiSi': 0.209, 'NiSi2': 0.169}
+Inf Error: {'Ni': 0.096, 'SiC': 0.032, 'C': 0.115, 'NiSi': 0.28, 'NiSi2': 0.194}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_15000.pth
+Epoch: 6/10----------------
+100%|██████████| 3000/3000 [21:00<00:00,  2.38it/s, Loss=2.032e-02, PDE=2.530e-03, BC=3.902e-04,1.770e-05, IC=1.711e-02,2.750e-04, D*=5.99e-02,3.10e-03, lr=3.46e-04]
+R^2 Error: {'Ni': 0.101, 'SiC': 0.018, 'C': 0.079, 'NiSi': 0.213, 'NiSi2': 0.195}
+Inf Error: {'Ni': 0.092, 'SiC': 0.031, 'C': 0.114, 'NiSi': 0.27, 'NiSi2': 0.187}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_18000.pth
+Epoch: 7/10----------------
+100%|██████████| 3000/3000 [21:04<00:00,  2.37it/s, Loss=1.822e-02, PDE=6.145e-03, BC=8.350e-04,1.591e-05, IC=1.101e-02,2.100e-04, D*=5.99e-02,2.16e-03, lr=2.06e-04]
+R^2 Error: {'Ni': 0.079, 'SiC': 0.036, 'C': 0.097, 'NiSi': 0.151, 'NiSi2': 0.172}
+Inf Error: {'Ni': 0.078, 'SiC': 0.034, 'C': 0.099, 'NiSi': 0.236, 'NiSi2': 0.173}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_21000.pth
+Epoch: 8/10----------------
+100%|██████████| 3000/3000 [20:59<00:00,  2.38it/s, Loss=6.004e-02, PDE=4.889e-02, BC=1.510e-04,8.493e-06, IC=1.085e-02,1.412e-04, D*=5.99e-02,1.14e-03, lr=9.56e-05]
+R^2 Error: {'Ni': 0.12, 'SiC': 0.04, 'C': 0.05, 'NiSi': 0.169, 'NiSi2': 0.135}
+Inf Error: {'Ni': 0.111, 'SiC': 0.037, 'C': 0.083, 'NiSi': 0.224, 'NiSi2': 0.172}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_24000.pth
+Epoch: 9/10----------------
+100%|██████████| 3000/3000 [21:01<00:00,  2.38it/s, Loss=3.148e-03, PDE=1.445e-03, BC=5.989e-05,5.786e-06, IC=1.516e-03,1.222e-04, D*=5.99e-02,9.06e-04, lr=2.45e-05]
+R^2 Error: {'Ni': 0.045, 'SiC': 0.015, 'C': 0.053, 'NiSi': 0.135, 'NiSi2': 0.112}
+Inf Error: {'Ni': 0.044, 'SiC': 0.015, 'C': 0.099, 'NiSi': 0.223, 'NiSi2': 0.136}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_27000.pth
+Epoch: 10/10----------------
+100%|██████████| 3000/3000 [21:02<00:00,  2.38it/s, Loss=1.023e-03, PDE=6.979e-04, BC=1.226e-05,2.347e-06, IC=2.071e-04,1.039e-04, D*=5.99e-02,8.49e-04, lr=1.00e-08]
+R^2 Error: {'Ni': 0.038, 'SiC': 0.012, 'C': 0.053, 'NiSi': 0.138, 'NiSi2': 0.111}
+Inf Error: {'Ni': 0.045, 'SiC': 0.013, 'C': 0.111, 'NiSi': 0.222, 'NiSi2': 0.132}
+模型已保存至 /content/drive/MyDrive/Report 12 Some Try/Main_Diffusion_Reaction/Results/ChebyKAN: [64]x4:/model_save/ChebyKAN: [64]x4_30000.pth
+R2 Error: {'Ni': 0.038, 'SiC': 0.012, 'C': 0.053, 'NiSi': 0.138, 'NiSi2': 0.111}
+Inf Error: {'Ni': 0.045, 'SiC': 0.013, 'C': 0.111, 'NiSi': 0.222, 'NiSi2': 0.132}
+Training time: 12604.05s-------------------------
+

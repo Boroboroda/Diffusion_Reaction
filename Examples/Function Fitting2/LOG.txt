@@ -1,0 +1,19 @@
+Current device: cuda
+Training PINN:
+100%|██████████| 100000/100000 [04:05<00:00, 407.98it/s, loss=9.265e-03, lr=1.000e-06]
+Relative Error: 0.0593
+Training IA_PINN:
+100%|██████████| 100000/100000 [06:40<00:00, 249.89it/s, loss=7.411e-03, lr=1.000e-06]
+Relative Error: 0.0530
+Training Fourier_PINN:
+100%|██████████| 100000/100000 [04:47<00:00, 348.32it/s, loss=3.832e-05, lr=1.000e-06]
+Relative Error: 0.0038
+Training AF_PINN:
+100%|██████████| 100000/100000 [07:38<00:00, 218.31it/s, loss=2.095e-05, lr=1.000e-06]
+Relative Error: 0.0028
+Training KAN:
+100%|██████████| 100000/100000 [28:23<00:00, 58.71it/s, loss=5.006e-04, lr=1.000e-06]
+Relative Error: 0.0138
+Training ChebyKAN:
+100%|██████████| 100000/100000 [11:19<00:00, 147.23it/s, loss=1.305e-03, lr=1.000e-06]
+Relative Error: 0.0223
