@@ -31,5 +31,7 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 <p align="center">
   <img src="Pics/Kirkendall_Effect.png" alt="Project Banner"style="width:60%;"/>
 </p>
-$ J_A(x) = - D_A \frac{\partial n_{A}}{\partial x} + n_{A}v $
+
+### 2. Network architecture
+- **PINN:**
   
