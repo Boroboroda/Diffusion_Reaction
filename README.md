@@ -29,7 +29,7 @@ In this project, numerical simulation of the diffusion reaction process of nicke
 ### 1. Probelm Modeling
 The problem consists of Kirkendall Effect and Darken Theory：<br>
 <p align="center">
-  <img src="Pics/picture/Kirdoll_Effect.png" alt="Project Banner"/>
+  <img src="Pics/Kirkendall_Effect.png" alt="Project Banner"style="width:60%;"/>
 </p>
-
+$$J_A(x) = - D_A \frac{\partial n_{A}}{\partial x} + n_{A}v$$
   
