@@ -165,7 +165,7 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 </div>
 
 - **Diffusion Reaction: IA-PINN**<br>
-- 
+
 <p align="center">
   <img src="Pics/IA_PINN_[128]x4_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
