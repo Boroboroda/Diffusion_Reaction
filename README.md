@@ -22,3 +22,5 @@ In this project, numerical simulation of the diffusion reaction process of nicke
   [Reference: KAN](https://kindxiaoming.github.io/pykan/intro.html) <br>
   [Reference: ChebyKAN](https://github.com/SynodicMonth/ChebyKAN)<br>
   
+## 🔬 Methodology
+### 1. Problem Modeling
