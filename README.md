@@ -1,15 +1,3 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
-
 # Numerical Simulation of Semiconductor's Diffusion-Reaction Process Based on Deep-Learning Methods
 ![Project Banner](Pics/Task.png) 
 
@@ -43,5 +31,5 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 <p align="center">
   <img src="Pics/Kirkendall_Effect.png" alt="Project Banner"style="width:60%;"/>
 </p>
-$$ J_A(x) = - D_A \frac{\partial n_{A}}{\partial x} + n_{A}v $$
+$ J_A(x) = - D_A \frac{\partial n_{A}}{\partial x} + n_{A}v $
   
