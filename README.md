@@ -96,6 +96,7 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 </div>
 
 - **Diffusion:**<br>
+
 **t = 0.1:**<br>
 <p align="center">
   <img src="Pics/AF_PINN_[64]x3_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
@@ -119,6 +120,7 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 </div>
 
 **t = 10:**<br>
+
 <p align="center">
   <img src="Pics/AF_PINN_[96]x3_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
