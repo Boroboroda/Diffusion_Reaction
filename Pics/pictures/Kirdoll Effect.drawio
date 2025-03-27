@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
+  <diagram name="第 1 页" id="FXUsgdD652qxxMYc3uCO">
+    <mxGraphModel dx="894" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="400" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="khvVDiB3WELT-06QFrdN-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="10" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-3" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;Component A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-4" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;Component B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9.166666666666668;endSize=9.891666666666666;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="30.05000000000001" as="sourcePoint" />
+            <mxPoint x="400" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9.166666666666668;endSize=9.891666666666666;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="80.05000000000001" as="sourcePoint" />
+            <mxPoint x="215" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-15" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;Component A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-16" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;Component B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;width=4.166666666666667;endSize=6.225;endWidth=14.027777777777777;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="170" as="sourcePoint" />
+            <mxPoint x="240" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-20" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;Kirkendall Effect&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-22" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;Component AB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$J_A$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="khvVDiB3WELT-06QFrdN-25" target="khvVDiB3WELT-06QFrdN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$J_B$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9.166666666666668;endSize=9.000000000000002;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;endWidth=14.027777777777777;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$J_v$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="235" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="270" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-35" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="310" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="235" y="295" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="khvVDiB3WELT-06QFrdN-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
