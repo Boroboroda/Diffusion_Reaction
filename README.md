@@ -12,4 +12,7 @@ In this project, numerical simulation of the diffusion reaction process of nicke
 
 ## 🌟 Key Features
 - **PINN framework improvement**<br>
+[example/repo]([https://github.com/example/repo](https://github.com/maziarraissi/PINNs))
  Deep learning model based on physical constraints for coupled multi-physics field simulation.
+
+- **Innovative Architecture Design**<br>
