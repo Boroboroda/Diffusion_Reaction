@@ -28,7 +28,8 @@ In this project, numerical simulation of the diffusion reaction process of nicke
 ## 🔬 Methodology
 ### 1. Probelm Modeling
 The problem consists of Kirkendall Effect and Darken Theory：<br>
-![Project Banner](Pics/Kirkendall_Effect.png) 
+<p align="center">
+  <img src="Pics/picture/Kirdoll_Effect.png" alt="Project Banner"/>
+</p>
 
   
-
