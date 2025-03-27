@@ -57,6 +57,7 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 
 ### 4. 📊 Results
 - Function Fitting:
+
 <p align="center">
   <img src="Pics/Function_fitting.png" alt="Project Banner"style="width:75%;"/>
 </p>
@@ -75,6 +76,7 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 </div>
 
 - Burgers Function:
+
 <p align="center">
   <img src="Pics/AF_Burgers.png" alt="Project Banner"style="width:90%;"/>
 </p>
@@ -95,12 +97,15 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 
 - **Diffusion:**<br>
 **t = 0.1:**
+
 <p align="center">
   <img src="Pics/AF_PINN_[64]x3_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <p align="center">
   <img src="Pics/AF_PINN_[64]x3_SiC_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <div align="center">
 
 | **Model**     | **Ni**   | **SiC**  | **Loss**      | **Running Time** |
@@ -115,12 +120,15 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 </div>
 
 **t = 10:**
+
 <p align="center">
   <img src="Pics/AF_PINN_[96]x3_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <p align="center">
   <img src="Pics/AF_PINN_[96]x3_SiC_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <div align="center">
 
 | **Model**     | **Ni**     | **SiC**    | **Loss**       | **Running Time** |
@@ -135,12 +143,15 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 </div>
 
 **t = 60:**
+
 <p align="center">
   <img src="Pics/AF_PINN_[128]x3_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <p align="center">
   <img src="Pics/AF_PINN_[128]x3_SiC_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <div align="center">
 
 | **Model**     | **Ni**     | **SiC**    | **Loss**       | **Running Time** |
@@ -155,18 +166,23 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 </div>
 
 - **Diffusion Reaction: IA-PINN**<br>
+- 
 <p align="center">
   <img src="Pics/IA_PINN_[128]x4_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <p align="center">
   <img src="Pics/IA_PINN_[128]x4_SiC_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <p align="center">
   <img src="Pics/IA_PINN_[128]x4_C_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <p align="center">
   <img src="Pics/IA_PINN_[128]x4_NISi_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
+
 <p align="center">
   <img src="Pics/IA_PINN_[128]x4_NiSi2_Concentration.png" alt="Project Banner"style="width:90%;"/>
 </p>
