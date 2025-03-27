@@ -99,11 +99,11 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 
 **t = 0.1:**<br>
 <p align="center">
-  <img src="Pics/AF_PINN_[64]x3_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/AF01_1.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <p align="center">
-  <img src="Pics/AF_PINN_[64]x3_SiC_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/AF01_2.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <div align="center">
@@ -122,11 +122,11 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 **t = 10:**<br>
 
 <p align="center">
-  <img src="Pics/AF_PINN_[96]x3_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/AF10_1.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <p align="center">
-  <img src="Pics/AF_PINN_[96]x3_SiC_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/AF10_2.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <div align="center">
@@ -144,11 +144,11 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 
 **t = 60:**<br>
 <p align="center">
-  <img src="Pics/AF_PINN_[128]x3_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/AF60_1.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <p align="center">
-  <img src="Pics/AF_PINN_[128]x3_SiC_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/AF60_2.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <div align="center">
@@ -167,23 +167,23 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 - **Diffusion Reaction: IA-PINN**<br>
 
 <p align="center">
-  <img src="Pics/IA_PINN_[128]x4_Ni_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/DR_Ni.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <p align="center">
-  <img src="Pics/IA_PINN_[128]x4_SiC_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/DR_SiC.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <p align="center">
-  <img src="Pics/IA_PINN_[128]x4_C_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/DR_C.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <p align="center">
-  <img src="Pics/IA_PINN_[128]x4_NISi_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/DR_NiSi.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <p align="center">
-  <img src="Pics/IA_PINN_[128]x4_NiSi2_Concentration.png" alt="Project Banner"style="width:90%;"/>
+  <img src="Pics/DR_NiSi2.png" alt="Project Banner"style="width:90%;"/>
 </p>
 
 <div align="center">
