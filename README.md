@@ -9,3 +9,7 @@
 
 ## 📜 Abstract
 In this project, numerical simulation of the diffusion reaction process of nickel (Ni) with silicon carbide (SiC) is realized based on the physical information neural network (PINN) framework. Combining random Fourier feature embedding, self-attention mechanism and multilayer perceptron (MLP), the training loss and L2 error are reduced. The innovative application of KAN (Kolmogorov-Arnold Networks) and its variant Chebyshev-KAN in PINN is also explored.
+
+## 🌟 Key Features
+- **PINN framework improvement**
+  Deep learning model based on physical constraints for coupled multi-physics field simulation.
