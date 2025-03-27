@@ -59,7 +59,7 @@ The problem consists of Kirkendall Effect and Darken Theory：<br>
 - Function Fitting:
 
 <p align="center">
-  <img src="Pics/Function_fitting.png" alt="Project Banner"style="width:75%;"/>
+  <img src="Pics/Function_Fitting.png" alt="Project Banner"style="width:75%;"/>
 </p>
 
 <div align="center">
